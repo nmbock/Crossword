@@ -4,6 +4,7 @@
 #include <stdbool.h>//bool
 #include"crossword.h"
 
+const int SIZE = 20;
 
 int main(void){
 	
